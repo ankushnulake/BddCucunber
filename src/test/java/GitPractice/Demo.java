@@ -16,5 +16,7 @@ public class Demo {
       
          System.out.println("git conflict resolve");
 
+        System.out.println("new code");
+
     }
 }
