@@ -10,5 +10,7 @@ public class Demo {
 
         System.out.println("git practice");
 
+        System.out.println("second commit");
+
     }
 }
