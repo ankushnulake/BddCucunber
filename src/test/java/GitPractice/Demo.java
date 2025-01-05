@@ -13,6 +13,8 @@ public class Demo {
         System.out.println("second commit");
 
         System.out.println("sample change for login feature");
+      
+         System.out.println("git conflict resolve");
 
     }
 }
